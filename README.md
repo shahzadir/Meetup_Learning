@@ -1,2 +1,2 @@
 # Meetup_Learning
-Python coding exercises on diverse topics done in online meetup
+Python learning of diverse topics in online meetup groups
